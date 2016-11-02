@@ -8,4 +8,14 @@
 возможность удаленной работы, самостоятельного поиска проектов;
 * хорошие знания предметной части предоставляют возможность переквалификации в смежных областях.
 
-<img src="https://yandex.ua/images/search?img_url=http%3A%2F%2Fwww.justasc.net%2Fwp-content%2Fuploads%2F2013%2F02%2Fbigstock-Android-hand-emerges-from-a-mo-32048594.jpg&text=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E&noreask=1&pos=1&lr=147&rpt=simage"  />
+![Картинка](http://bonkovskyroman.esy.es/img/programming.png)
+
+***В этой нелегкой работе, надо учить языки программирования.В этом мне помогает***
+
+1. [HTMLacademy] (https://htmlacademy.ru/)
+2. [GeekBrains] (https://geekbrains.ru/)
+3. [Devionity] (https://devionity.com/ru/courses)
+
+
+
+![Картинка](http://anpwebsolutions.com/wp-content/uploads/2015/07/design-navigation.jpg)
